@@ -4,7 +4,7 @@ Bota as chave pública ai com formato .pub
 
 Chaves públicas devem ser o arquivo ```~/.ssh/id_rsa.pub``` . **Não é o arquivo ```~/.ssh/id_rsa```**(essa é a chave privada)
 
-Se não existir um par deve ser gerado com o comando ```ssh-keygen```. (Só dar enter e deixar tudo padr
+Se não existir um par deve ser gerado com o comando ```ssh-keygen```. (Só dar enter e deixar tudo padrão)
 
 ## uso 
 - baixa tudo 
